@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SampleConsoleNet5": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
