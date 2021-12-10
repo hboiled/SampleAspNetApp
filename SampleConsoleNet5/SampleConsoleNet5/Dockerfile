@@ -7,5 +7,5 @@ EXPOSE 443
 
 # FROM base AS final
 # WORKDIR /app
-COPY /bin/Release/netcoreapp3.1 .
+COPY /bin/Release/netcoreapp3.1/publish .
 ENTRYPOINT ["dotnet", "SampleConsoleNet5.dll"]

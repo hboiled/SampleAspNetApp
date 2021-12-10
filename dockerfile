@@ -1,0 +1,1 @@
+FROM satdevemltest.azurecr.io/sample/testrun:latest
