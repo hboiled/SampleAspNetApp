@@ -6,6 +6,7 @@ namespace SampleConsoleNet5
     {
         static void Main(string[] args)
         {
+            // main
             Console.WriteLine("Hello World!");
         }
     }
